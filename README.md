@@ -22,6 +22,12 @@ npx create-next-app useeffect-carousel
 
 npm run dev
 
+git add .
+
+git commit -m "initial commit"
+
+git push
+
 ## Language use
 
 JavaScript
