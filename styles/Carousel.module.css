@@ -1,0 +1,21 @@
+.main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.arrow {
+    display: flex;
+}
+
+.home {
+    font-size: 20px;
+    text-decoration: none;
+    color: var(--black);
+    margin: 40px;
+}
+
+.home:hover {
+    background-color: var(--pink);
+}

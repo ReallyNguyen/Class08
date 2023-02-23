@@ -1,0 +1,23 @@
+.two {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.two>div {
+    padding: 2%;
+}
+
+.home {
+    font-size: 20px;
+    text-decoration: none;
+    color: var(--black);
+}
+
+.home:hover {
+    background-color: var(--pink);
+}
+
+.effect {
+    font-size: 30px;
+}

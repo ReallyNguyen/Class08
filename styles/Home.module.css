@@ -1,0 +1,16 @@
+.main {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  font-size: 30px;
+}
+
+.btn {
+  text-decoration: none;
+  color: var(--black);
+}
+
+.btn:hover {
+  color: var(--white);
+  background-color: var(--dark-red);
+}
